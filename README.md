@@ -39,3 +39,19 @@ If the tuple length is also k, the component is complete.
 Notes
 This approach avoids performing a DFS/BFS to verify every component explicitly.
 Instead, it leverages identical adjacency signatures to identify complete connected components efficiently.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
+<!---LeetCode Topics End-->
