@@ -17,6 +17,7 @@
 | [1260-shift-2d-grid](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -30,6 +31,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -84,6 +86,7 @@
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Prefix Sum
@@ -105,6 +108,7 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -135,4 +139,17 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0877-stone-game) |
+| [2029-stone-game-ix](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
