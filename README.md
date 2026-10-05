@@ -98,6 +98,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -159,4 +161,5 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
