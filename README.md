@@ -13,6 +13,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0704-binary-search) |
@@ -54,6 +55,7 @@
 | [0032-longest-valid-parentheses](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0877-stone-game) |
@@ -73,6 +75,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1029-two-city-scheduling](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1029-two-city-scheduling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -131,6 +134,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [1029-two-city-scheduling](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1029-two-city-scheduling) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
