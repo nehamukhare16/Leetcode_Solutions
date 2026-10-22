@@ -13,6 +13,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -56,6 +57,7 @@
 | [0032-longest-valid-parentheses](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
