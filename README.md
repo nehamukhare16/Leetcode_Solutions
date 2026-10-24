@@ -13,6 +13,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0322-coin-change) |
@@ -142,6 +143,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [1029-two-city-scheduling](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1029-two-city-scheduling) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
