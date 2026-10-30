@@ -15,6 +15,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -80,6 +81,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -105,6 +107,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
