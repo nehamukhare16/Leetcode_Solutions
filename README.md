@@ -26,6 +26,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [1029-two-city-scheduling](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1029-two-city-scheduling) |
+| [1254-number-of-closed-islands](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -159,6 +160,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 ## Segment Tree
 |  |
@@ -228,6 +230,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0322-coin-change](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0322-coin-change) |
+| [1254-number-of-closed-islands](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -252,4 +255,12 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0322-coin-change) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
