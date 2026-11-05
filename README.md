@@ -30,6 +30,7 @@
 | [1029-two-city-scheduling](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1029-two-city-scheduling) |
 | [1254-number-of-closed-islands](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -98,6 +100,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1029-two-city-scheduling](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1029-two-city-scheduling) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -120,6 +123,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Combinatorics
