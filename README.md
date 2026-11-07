@@ -33,6 +33,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1882-process-tasks-using-servers](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1882-process-tasks-using-servers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2029-stone-game-ix](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
@@ -191,6 +192,7 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1882-process-tasks-using-servers) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Recursion
