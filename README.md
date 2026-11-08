@@ -30,6 +30,7 @@
 | [1029-two-city-scheduling](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1029-two-city-scheduling) |
 | [1254-number-of-closed-islands](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -138,6 +139,7 @@
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -179,6 +181,7 @@
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1267-count-servers-that-communicate) |
 ## Segment Tree
 |  |
 | ------- |
@@ -250,6 +253,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0322-coin-change](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [1254-number-of-closed-islands](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -278,10 +282,12 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1267-count-servers-that-communicate) |
 ## Union-Find
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1267-count-servers-that-communicate) |
 ## Sliding Window
 |  |
 | ------- |
