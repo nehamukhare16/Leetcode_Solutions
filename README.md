@@ -42,6 +42,7 @@
 | [2747-count-zero-request-servers](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/2747-count-zero-request-servers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -165,6 +166,7 @@
 | [0032-longest-valid-parentheses](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Greedy
 |  |
 | ------- |
@@ -178,6 +180,7 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Matrix
 |  |
 | ------- |
@@ -187,6 +190,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Bit Manipulation
 |  |
@@ -295,9 +299,18 @@
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Ordered Set
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
