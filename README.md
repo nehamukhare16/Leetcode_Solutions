@@ -120,6 +120,7 @@
 | ------- |
 | [1260-shift-2d-grid](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -163,6 +164,7 @@
 | [0856-score-of-parentheses](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
