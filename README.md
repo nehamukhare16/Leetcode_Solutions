@@ -86,6 +86,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Number Theory
@@ -101,6 +102,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -165,6 +167,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
