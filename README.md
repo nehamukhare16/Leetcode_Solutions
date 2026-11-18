@@ -168,6 +168,7 @@
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
