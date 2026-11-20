@@ -42,6 +42,7 @@
 | [2029-stone-game-ix](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/2747-count-zero-request-servers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3364-minimum-positive-sum-subarray](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
@@ -88,6 +89,7 @@
 | [0877-stone-game](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Number Theory
@@ -118,6 +120,7 @@
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/2747-count-zero-request-servers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nehamukhare16/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
